@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizz_App</string>
+    <string name="button_text">Start</string>
+    <string name="contentDescription">App_Icon</string>
+</resources>
